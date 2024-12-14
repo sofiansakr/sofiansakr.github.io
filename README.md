@@ -4,7 +4,7 @@
 
 I am studying physics, both theoretical and experimental. Throughout my studies, I was introduced to computational physics which sparked my interest in how I can apply theories to practical projects. Afterward, I started taking more coursework related to that field. Currently, I am fully focused on the connection between physics, data analysis, and mathematical simulation.
 
-### Kurse  
+## Kurse  
 
 ## Python Online Course | Python Courses by Michigan University
 **Credential:** [Certificate](https://www.coursera.org/account/accomplishments/certificate/8KF2YPJ78WJP)  
@@ -43,14 +43,14 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ---
 
-### Schulbildung
+## Schulbildung
 - **Bachelor of Science in Physics** | *Universiti Sains Malaysia* | 10/2020 – 08/2021
 - **Bachelor of Science in Physics** | *Universität Leipzig* | 04/2022 – 07/2025
 
 ---
 
 
-### Kenntnisse  
+## Kenntnisse  
 
 - **MS Excel:** [Projects](https://drive.google.com/drive/folders/1d0llfxWdeVTGFFoNxYbFWeGUt7X_cS5Y?usp=sharing)  
 - **Sprachen:**  
