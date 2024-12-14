@@ -8,7 +8,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ### Python Online Course  
 *Python Courses by Michigan University*  
-**Credential:** [https://www.coursera.org/account/accomplishments/certificate/8KF2YPJ78WJP]  
+**Credential:** [Certificate](https://www.coursera.org/account/accomplishments/certificate/8KF2YPJ78WJP)  
 
 ---
 
@@ -20,7 +20,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
   - Computersimulationen von Vielteilchensystemen (Prinzipielle Methoden und Algorithmen, statistisch mechanische Auswertungen)  
   - Metropolis Monte-Carlo (MC)  
   - Anwendungen der MD- und MC-Methoden auf einfache Systeme  
-**Projekte:** [https://drive.google.com/drive/folders/1C-ClfdWq4mT33wE8TGuTT9xSxhABKHa_?usp=sharing]  
+**Projekte:** [Project Folder](https://drive.google.com/drive/folders/1C-ClfdWq4mT33wE8TGuTT9xSxhABKHa_?usp=sharing)  
 
 ---
 
@@ -31,7 +31,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 - Erstellen von Bildern, z. B. mit Python/Astropy  
 - Bestimmen absoluter Helligkeiten sowie deren Unsicherheiten  
 - Analyse einzelner Objekte mittels Mehrwellenlängen-Beobachtungen  
-**Projekte:** [https://drive.google.com/drive/folders/1rihdMu2ngzqyTPZUMvgguZqdfHuW9RJk?usp=sharing]  
+**Projekte:** [Project Folder](https://drive.google.com/drive/folders/1rihdMu2ngzqyTPZUMvgguZqdfHuW9RJk?usp=sharing)  
 
 ---
 
@@ -42,7 +42,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 - Simulating the flow around a Motorbike with SnappyHexMesh  
 - Turbulent Flow in a Pipe with Salome as Mesher  
 
-**OpenFOAM and C:** [https://drive.google.com/drive/folders/1kiueSVb-OyW_3F8u4fDFkJlqJCLvVDq2?usp=sharing]  
+**OpenFOAM and C:** [OpenFOAM and C Projects](https://drive.google.com/drive/folders/1kiueSVb-OyW_3F8u4fDFkJlqJCLvVDq2?usp=sharing)  
 
 ---
 
@@ -55,7 +55,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ## Kenntnisse  
 
-- **MS Excel:** [https://drive.google.com/drive/folders/1d0llfxWdeVTGFFoNxYbFWeGUt7X_cS5Y?usp=sharing]  
+- **MS Excel:** [Projects](https://drive.google.com/drive/folders/1d0llfxWdeVTGFFoNxYbFWeGUt7X_cS5Y?usp=sharing)  
 - **Sprachen:**  
   - Arabisch: Muttersprache  
   - Englisch: Fließend  
