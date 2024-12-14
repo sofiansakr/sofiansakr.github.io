@@ -4,41 +4,45 @@
 
 I am studying physics, both theoretical and experimental. Throughout my studies, I was introduced to computational physics which sparked my interest in how I can apply theories to practical projects. Afterward, I started taking more coursework related to that field. Currently, I am fully focused on the connection between physics, data analysis, and mathematical simulation.
 
+## Kurse  
 
-# KURSE
-
-## Python Online Course | Python Courses by Michigan University
-**Credential URL:** [Certificate](https://www.coursera.org/account/accomplishments/certificate/8KF2YPJ78WJP)
-
----
-
-## Introduction to Computer Simulation | Universität Leipzig
-**Überblick:**
-- Molecular modeling of many-particle systems (Python):
-  - Basic concepts of statistical physics (statistical totals and averaging, distribution and correlation functions, thermodynamic functions, and transport coefficients)
-  - Computer simulations of many-particle systems (basic methods and algorithms, statistical-mechanical evaluations)
-  - Metropolis Monte-Carlo (MC)
-  - Applications of MD and MC methods to simple systems
-- **Projects:** [Project Folder](https://drive.google.com/drive/folders/1C-ClfdWq4mT33wE8TGuTT9xSxhABKHa_?usp=sharing)
+### Python Online Course  
+*Python Courses by Michigan University*  
+**Credential:** [https://www.coursera.org/account/accomplishments/certificate/8KF2YPJ78WJP]  
 
 ---
 
-## Extragalactic Astrophysics Laboratory | Universität Leipzig
-**Überblick:**
-- Observation methods of radio, infrared, optical astronomy, and X-ray astronomy
-- Creation of images (e.g., with Python/astropy)
-- Determination of absolute magnitudes as well as their uncertainties
-- Analysis of single objects using multiwavelength observations
-- **Projects:** [Project Folder](https://drive.google.com/drive/folders/1rihdMu2ngzqyTPZUMvgguZqdfHuW9RJk?usp=sharing)
+### Einführung in die Computersimulation  
+*Universität Leipzig*  
+**Überblick:**  
+- Molekulare Modellierung von Vielteilchensystemen:  
+  - Grundbegriffe der Statistischen Physik (Statistische Gesamtheiten und Mittelwertbildung, Verteilungs- und Korrelationsfunktionen, thermodynamische Funktionen und Transportkoeffizienten)  
+  - Computersimulationen von Vielteilchensystemen (Prinzipielle Methoden und Algorithmen, statistisch mechanische Auswertungen)  
+  - Metropolis Monte-Carlo (MC)  
+  - Anwendungen der MD- und MC-Methoden auf einfache Systeme  
+**Projekte:** [https://drive.google.com/drive/folders/1C-ClfdWq4mT33wE8TGuTT9xSxhABKHa_?usp=sharing]  
 
 ---
 
-## OpenFOAM
-**Simulations:**
-- Lid-Driven Cavity Flow
-- Simulating the flow around a Motorbike with SnappyHexMesh
-- Turbulent Flow in a Pipe with Salome as Mesher
-- **Projects:** [OpenFOAM and C Projects](https://drive.google.com/drive/folders/1kiueSVb-OyW_3F8u4fDFkJlqJCLvVDq2?usp=sharing)
+### Praktikum Extragalaktische Astrophysik  
+*Universität Leipzig*  
+**Überblick:**  
+- Beobachtungsmethoden der Radio-, Infrarot-, optischen Astronomie und Röntgenastronomie  
+- Erstellen von Bildern, z. B. mit Python/Astropy  
+- Bestimmen absoluter Helligkeiten sowie deren Unsicherheiten  
+- Analyse einzelner Objekte mittels Mehrwellenlängen-Beobachtungen  
+**Projekte:** [https://drive.google.com/drive/folders/1rihdMu2ngzqyTPZUMvgguZqdfHuW9RJk?usp=sharing]  
+
+---
+
+## OpenFOAM  
+
+**Simulations:**  
+- Lid-Driven Cavity Flow  
+- Simulating the flow around a Motorbike with SnappyHexMesh  
+- Turbulent Flow in a Pipe with Salome as Mesher  
+
+**OpenFOAM and C:** [https://drive.google.com/drive/folders/1kiueSVb-OyW_3F8u4fDFkJlqJCLvVDq2?usp=sharing]  
 
 ---
 
@@ -48,18 +52,15 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ---
 
-## Kenntnisse
-- **MS Excel**: [Projects](https://drive.google.com/drive/folders/1d0llfxWdeVTGFFoNxYbFWeGUt7X_cS5Y?usp=sharing)
 
-**Sprachen:**
-- **Arabisch:** Muttersprache
-- **Englisch:** Fließend
-- **Deutsch:** Gute Kenntnisse
+## Kenntnisse  
 
+- **MS Excel:** [https://drive.google.com/drive/folders/1d0llfxWdeVTGFFoNxYbFWeGUt7X_cS5Y?usp=sharing]  
+- **Sprachen:**  
+  - Arabisch: Muttersprache  
+  - Englisch: Fließend  
+  - Deutsch: Gute Kenntnisse  
 
-Skills: Python |  OpenFOAM |  LaTeX |  Computational Physics |  Mathematical Modeling |  Monte Carlo Simulation
-
-- 📫 How to reach me: sofiansakr7@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SofianSakr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sofian-sakr-767a13149/)  
