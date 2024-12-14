@@ -11,7 +11,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ---
 
-## Introduction to Computer Simulation | Universität Leipzig
+### Introduction to Computer Simulation | Universität Leipzig
 **Überblick:**  
 - Molekulare Modellierung von Vielteilchensystemen:  
   - Grundbegriffe der Statistischen Physik (Statistische Gesamtheiten und Mittelwertbildung, Verteilungs- und Korrelationsfunktionen, thermodynamische Funktionen und Transportkoeffizienten)  
@@ -22,7 +22,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ---
 
-## Extragalactic Astrophysics Laboratory | Universität Leipzig
+### Extragalactic Astrophysics Laboratory | Universität Leipzig
 **Überblick:**  
 - Beobachtungsmethoden der Radio-, Infrarot-, optischen Astronomie und Röntgenastronomie  
 - Erstellen von Bildern, z. B. mit Python/Astropy  
@@ -32,7 +32,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ---
 
-## OpenFOAM  
+### OpenFOAM  
 
 **Simulations:**  
 - Lid-Driven Cavity Flow  
@@ -43,14 +43,14 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ---
 
-## Schulbildung
+### Schulbildung
 - **Bachelor of Science in Physics** | *Universiti Sains Malaysia* | 10/2020 – 08/2021
 - **Bachelor of Science in Physics** | *Universität Leipzig* | 04/2022 – 07/2025
 
 ---
 
 
-## Kenntnisse  
+### Kenntnisse  
 
 - **MS Excel:** [Projects](https://drive.google.com/drive/folders/1d0llfxWdeVTGFFoNxYbFWeGUt7X_cS5Y?usp=sharing)  
 - **Sprachen:**  
