@@ -1,4 +1,4 @@
-### Hi there, I am Sofian Sakr
+### Hi there, Sofian Sakr
 #### Data Analysis and Mathematical Simulation
 ![Data Analysis and Mathematical Simulation](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
