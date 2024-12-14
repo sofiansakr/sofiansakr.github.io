@@ -2,7 +2,7 @@
 #### Data Analysis and Mathematical Simulation
 ![Data Analysis and Mathematical Simulation](https://media.licdn.com/dms/image/v2/C5616AQGu9rvOmLF3kQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1645983583153?e=1739404800&v=beta&t=i5JY1pwFrfsvAHhTY5NNnYA9YIQivd8HLRab7Tu5OZg)
 
-I am studying physics, both theoretical and experimental, and throughout my studies, I was introduced to computational physics which sparked my interest from the first project I did and how I can apply theories to practical projects. Afterward, I started taking more coursework related to that field. Now, I am fully focused on the connection between physics, data analysis, and mathematical simulation.
+I am studying physics, both theoretical and experimental. Throughout my studies, I was introduced to computational physics which sparked my interest in how I can apply theories to practical projects. Afterward, I started taking more coursework related to that field. Currently, I am fully focused on the connection between physics, data analysis, and mathematical simulation.
 
 
 # KURSE
