@@ -6,14 +6,12 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ## Kurse  
 
-### Python Online Course  
-*Python Courses by Michigan University*  
+## Python Online Course | Python Courses by Michigan University
 **Credential:** [Certificate](https://www.coursera.org/account/accomplishments/certificate/8KF2YPJ78WJP)  
 
 ---
 
-### Einführung in die Computersimulation  
-*Universität Leipzig*  
+## Introduction to Computer Simulation | Universität Leipzig
 **Überblick:**  
 - Molekulare Modellierung von Vielteilchensystemen:  
   - Grundbegriffe der Statistischen Physik (Statistische Gesamtheiten und Mittelwertbildung, Verteilungs- und Korrelationsfunktionen, thermodynamische Funktionen und Transportkoeffizienten)  
@@ -24,8 +22,7 @@ I am studying physics, both theoretical and experimental. Throughout my studies,
 
 ---
 
-### Praktikum Extragalaktische Astrophysik  
-*Universität Leipzig*  
+## Extragalactic Astrophysics Laboratory | Universität Leipzig
 **Überblick:**  
 - Beobachtungsmethoden der Radio-, Infrarot-, optischen Astronomie und Röntgenastronomie  
 - Erstellen von Bildern, z. B. mit Python/Astropy  
