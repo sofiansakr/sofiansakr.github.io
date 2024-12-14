@@ -1,6 +1,6 @@
 ### Hi there, Sofian Sakr
 #### Data Analysis and Mathematical Simulation
-![Data Analysis and Mathematical Simulation](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data Analysis and Mathematical Simulation]
 
 I am studying physics, both theoretical and experimental, and throughout my studies, I was introduced to computational physics which sparked my interest from the first project I did and how I can apply theories to practical projects. Afterward, I started taking more coursework related to that field. Now, I am fully focused on the connection between physics, data analysis and mathematical simulation.
 
