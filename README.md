@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Sofian Sakr  
 #### Computational Physics | Fluid Dynamics | Plasma Simulation  
 
-![Header](https://media.licdn.com/dms/image/v2/C5616AQGu9rvOmLF3kQ/profile-displaybackgroundimage-shrink_350_1400/0/1645983583153?e=1739404800&v=beta&t=i5JY1pwFrfsvAHhTY5NNnYA9YIQivd8HLRab7Tu5OZg)
+
 
 I’m a physics student with strong experience in theoretical and simulation-based research. My focus lies in plasma reactor simulation, computational physics, and critical behavior analysis using statistical mechanics.
 
