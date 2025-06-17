@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Sofian Sakr  
-#### Computational Physics | Fluid Dynamics | Plasma Simulation  
+#### Physics Student at Universität Leipzig | CFD | OpenFOAM simulation | Mesh Generation | Computational Physics | Mathematical Simulation | MC Method  
 
 
 
