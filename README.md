@@ -56,14 +56,20 @@ enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich 
 ---
 
 ### Einführung in die Computersimulation — Universität Leipzig  
-- Statistische Physik (Ensembles, Mittelwerte, Verteilungsfunktionen, Transportkoeffizienten)  
-- Simulationsmethoden: Monte Carlo (MC), Molekulardynamik, Vielteilchensysteme  
+- Molekulare Modellierung von Vielteilchensystemen:
+  - Grundbegriffe der Statistischen Physik (Statistische Gesamtheiten und
+  Mittelwertbildung, Verteilungs- und Korrelationsfunktionen, thermodynamische Funktionen und Transportkoeffizienten)
+  - Computersimulationen von Vielteilchensystemen (Prinzipielle Methoden und Algorithmen, statistisch mechanische Auswertungen)
+  - Metropolis Monte-Carlo (MC)
+  - Anwendungen der MD- und MC-Methoden auf einfache Systeme  
 
 ---
 
 ### Praktikum in Extragalaktischer Astrophysik — Universität Leipzig  
-- Beobachtungsmethoden in Radio-, IR-, optischer und Röntgenastronomie  
-- Bildverarbeitung mit Python/Astropy, Unsicherheitsabschätzung extragalaktischer Helligkeiten  
+- Beobachtungsmethoden der Radio-, Infrarot-, optischen Astronomie und Röntgenastronomie
+- Erstellen von Bildern, z. B. mit Python/Astropy
+- Bestimmen absoluter Helligkeiten sowie deren Unsicherheiten
+- Analyse einzelner Objekte mittels Mehrwellenlängen Beobachtungen
 
 ---
 
