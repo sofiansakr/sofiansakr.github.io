@@ -9,7 +9,7 @@ I’m a physics student with strong experience in theoretical and simulation-bas
 
 ## Berufserfahrung
 
-### HiWi für OpenFOAM-Simulation — enaDyne, Deutschland *(01/2025 – jetzt *(https://drive.google.com/drive/folders/1LdvEWNJrwPAhHBuCaScYrqSjE1pvnoZi?usp=sharing)
+### [HiWi für OpenFOAM-Simulation — enaDyne, Deutschland *(01/2025 – Jetzt)*](https://drive.google.com/drive/folders/1LdvEWNJrwPAhHBuCaScYrqSjE1pvnoZi?usp=sharing)
 Bei enaDyne GmbH konzentriere ich mich auf die Entwicklung und Optimierung plasma-katalytischer Reaktordesigns zur Synthesegasproduktion, insbesondere mittels Simulation von SDBD-Systemen mit OpenFOAM. Ich erstelle mesh mit GMSH und SkyMesh, integriere Daten aus nonPDPSIM (z. B. elektrische Felder und EHD-Kräfte) und führe Simulationen auf Cloud-Servern unter Verwendung von MPI-Parallelisierung durch. Zur Steigerung der Genauigkeit passe ich Solver-Quellcodes in C++ an und entwickle eigene Module zur Erweiterung der Funktionalität.
 
 #### 🔧 Aufgaben im Detail:
@@ -31,7 +31,7 @@ Bei enaDyne GmbH konzentriere ich mich auf die Entwicklung und Optimierung plasm
 - **Code-Entwicklung & Optimierung:**  
   - Weiterentwicklung der Solver-Funktionalität und Pflege individueller Module in C++, um OpenFOAM an projektspezifische Anforderungen anzupassen sowie numerische Stabilität und Geschwindigkeit zu verbessern
 
-Projete(https://drive.google.com/drive/folders/1LdvEWNJrwPAhHBuCaScYrqSjE1pvnoZi?usp=sharing)
+[Projete](https://drive.google.com/drive/folders/1LdvEWNJrwPAhHBuCaScYrqSjE1pvnoZi?usp=sharing)
 ---
 
 ### 20th OpenFOAM Workshop 2025 — AIT Austrian Institute of Technology *(06/2025 – 07/2025)*  
