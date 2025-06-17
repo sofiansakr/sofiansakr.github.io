@@ -77,7 +77,7 @@ enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich 
 ## Bildung
 
 - **B.Sc. in Physics** — Universiti Sains Malaysia *(10/2020 – 08/2021)*  
-- **B.Sc. in Physics** — Universität Leipzig *(04/2022 – 08/2025)*  
+- **B.Sc. in Physics** — Universität Leipzig *(04/2022 – 09/2025)*  
 
 ---
 
