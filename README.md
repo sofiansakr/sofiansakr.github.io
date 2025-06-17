@@ -66,7 +66,7 @@ enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich 
 
 ---
 
-### Praktikum in Extragalaktischer Astrophysik — Universität Leipzig  
+### [Praktikum in Extragalaktischer Astrophysik — Universität Leipzig](https://github.com/sofiansakr/Praktikum-in-Extragalaktischer-Astrophysik/tree/main)  
 - Beobachtungsmethoden der Radio-, Infrarot-, optischen Astronomie und Röntgenastronomie
 - Erstellen von Bildern, z. B. mit Python/Astropy
 - Bestimmen absoluter Helligkeiten sowie deren Unsicherheiten
