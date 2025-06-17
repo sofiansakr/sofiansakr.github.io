@@ -31,6 +31,7 @@ Bei enaDyne GmbH konzentriere ich mich auf die Entwicklung und Optimierung plasm
 - **Code-Entwicklung & Optimierung:**  
   - Weiterentwicklung der Solver-Funktionalität und Pflege individueller Module in C++, um OpenFOAM an projektspezifische Anforderungen anzupassen sowie numerische Stabilität und Geschwindigkeit zu verbessern
 
+---
 
 ### 20th OpenFOAM Workshop 2025 — AIT Austrian Institute of Technology *(06/2025 – 07/2025)*  
 enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich um die größte jährliche OpenFOAM-Konferenz und das am längsten bestehende Treffen der OpenFOAM-Community.
@@ -42,15 +43,23 @@ enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich 
 ### Bachelorarbeit — Universität Leipzig  
 -My Bachelor's thesis focused on a computational investigation of the two-dimensional Ising model through the lens of complex partition function zeros. I implemented precise numerical methods to locate Fisher and Lee-Yang zeros for large lattice sizes (up to L = 128), using Python and Mathematica. The analysis incorporated techniques such as high-order cumulants, root-finding algorithms, and exact enumeration of microstates. A key contribution of the work was the application of logarithmic finite-size scaling corrections, allowing for accurate estimation of critical exponents and improved understanding of finite-size effects near phase transitions. Throughout the project, I gained advanced proficiency in statistical mechanics, symbolic computation, and numerical analysis of critical phenomena.
 
+---
+
 ### [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/certificate/8KF2YPJ78WJP) — University of Michigan (Coursera)  
 - Spezialisierungsreihe über grundlegende Python-Programmierung und Datenverarbeitung  
+
+---
 
 ### Applied Computational Fluid Dynamics — Siemens (Coursera)  
 - Einführung in numerische Strömungsmechanik mit industrieller Anwendung  
 
+---
+
 ### Einführung in die Computersimulation — Universität Leipzig  
 - Statistische Physik (Ensembles, Mittelwerte, Verteilungsfunktionen, Transportkoeffizienten)  
 - Simulationsmethoden: Monte Carlo (MC), Molekulardynamik, Vielteilchensysteme  
+
+---
 
 ### Praktikum in Extragalaktischer Astrophysik — Universität Leipzig  
 - Beobachtungsmethoden in Radio-, IR-, optischer und Röntgenastronomie  
