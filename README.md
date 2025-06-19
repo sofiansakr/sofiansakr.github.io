@@ -34,14 +34,14 @@ Bei enaDyne GmbH konzentriere ich mich auf die Entwicklung und Optimierung plasm
 [Projete](https://github.com/sofiansakr/enaDyne/tree/main?tab=readme-ov-file)
 ---
 
-### 20th OpenFOAM Workshop 2025 — AIT Austrian Institute of Technology *(06/2025 – 07/2025)*  
+### 20th OpenFOAM Workshop 2025 — AIT Austrian Institute of Technology *(30/06/2025 – 04/07/2025)*  
 enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich um die größte jährliche OpenFOAM-Konferenz und das am längsten bestehende Treffen der OpenFOAM-Community.
 
 ---
 
 ## Kurse & Projekte
 
-### Bachelorarbeit —ITP, Universität Leipzig                                                                 *voraussichtlich 09/2025*
+### Bachelorarbeit — ITP, Universität Leipzig — *voraussichtlich 09/2025*
 - Meine Bachelorarbeit konzentrierte sich auf eine rechnergestützte Untersuchung des zweidimensionalen Ising-Modells unter dem Aspekt komplexer Nullstellen der Zustandssumme. Ich implementierte präzise numerische Methoden zur Bestimmung von Fisher- und Lee-Yang-Nullstellen für große Gittergrößen (bis zu L=128) unter Verwendung von Python und Mathematica. Die Analyse umfasste Techniken wie höherordentliche Kumulanten, Nullstellensuchalgorithmen sowie die exakte Aufzählung von Mikrozuständen. Ein wesentlicher Beitrag dieser Arbeit war die Anwendung logarithmischer Korrekturen der endlichen Größe, wodurch eine genaue Abschätzung kritischer Exponenten und ein besseres Verständnis der Finite-Size-Effekte in der Nähe von Phasenübergängen ermöglicht wurden. Im Verlauf des Projekts erwarb ich fortgeschrittene Kenntnisse in statistischer Physik, symbolischer Berechnung und numerischer Analyse kritischer Phänomene.
 
 ---
