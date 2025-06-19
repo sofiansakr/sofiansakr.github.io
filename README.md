@@ -3,7 +3,7 @@
 
 
 
-I’m a physics student with strong experience in theoretical and simulation-based research. My focus lies in plasma reactor simulation, computational physics, and critical behavior analysis using statistical mechanics.
+I’m a physics student with strong experience in theoretical and simulation-based research. My focus lies in CFD simulation (e.g. plasma reactor simulation), computational physics, and critical behavior analysis using statistical mechanics.
 
 ---
 
