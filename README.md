@@ -42,7 +42,7 @@ enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich 
 ## Kurse & Projekte
 
 ### Bachelorarbeit — ITP, Universität Leipzig — *voraussichtlich 09/2025*
-<p align="center"><strong>Complex Partition Function Zeros of the Two-Dimensional Ising Model</strong></p>
+<p align="center"><strong>"Complex Partition Function Zeros of the Two-Dimensional Ising Model"</strong></p>
 
 - Meine Bachelorarbeit konzentrierte sich auf eine rechnergestützte Untersuchung des zweidimensionalen Ising-Modells unter dem Aspekt komplexer Nullstellen der Zustandssumme. Ich implementierte präzise numerische Methoden zur Bestimmung von Fisher- und Lee-Yang-Nullstellen für große Gittergrößen (bis zu L=128) unter Verwendung von Python und Mathematica. Die Analyse umfasste Techniken wie höherordentliche Kumulanten, Nullstellensuchalgorithmen sowie die exakte Aufzählung von Mikrozuständen. Ein wesentlicher Beitrag dieser Arbeit war die Anwendung logarithmischer Korrekturen der endlichen Größe, wodurch eine genaue Abschätzung kritischer Exponenten und ein besseres Verständnis der Finite-Size-Effekte in der Nähe von Phasenübergängen ermöglicht wurden. Im Verlauf des Projekts erwarb ich fortgeschrittene Kenntnisse in statistischer Physik, symbolischer Berechnung und numerischer Analyse kritischer Phänomene.
 
