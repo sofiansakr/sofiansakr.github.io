@@ -36,6 +36,7 @@ At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic
 ### 20th OpenFOAM Workshop 2025 — AIT Austrian Institute of Technology *(30/06/2025 – 04/07/2025)*  
 Invited by enaDyne to participate in the OpenFOAM Workshop to present our work —the largest annual OpenFOAM conference and the longest-running community event.
 [Link for Certificate of Participation](https://drive.google.com/file/d/18bAl4iTeSFQaC8BpOnjM_qgBQuX8VnXZ/view?usp=sharing)
+[Our Abstract Overview](https://drive.google.com/file/d/1Jltv0nZM1MFDTq8CZqg7T7BTs2rMvEl-/view?usp=sharing)
 
 ---
 
