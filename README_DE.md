@@ -36,7 +36,7 @@ Bei enaDyne GmbH konzentriere ich mich auf die Entwicklung und Optimierung plasm
 
 ### 20th OpenFOAM Workshop 2025 — AIT Austrian Institute of Technology *(30/06/2025 – 04/07/2025)*  
 enaDyne hat mich eingeladen, am OpenFOAM Workshop teilzunehmen. Es handelt sich um die größte jährliche OpenFOAM-Konferenz und das am längsten bestehende Treffen der OpenFOAM-Community.
-
+[Link for Certificate of Participation](https://drive.google.com/file/d/18bAl4iTeSFQaC8BpOnjM_qgBQuX8VnXZ/view?usp=sharing)
 ---
 
 ## Kurse & Projekte
