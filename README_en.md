@@ -91,7 +91,7 @@ At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic
 
 ## Skills
 
-- **Technical:** Inventor 3D-CAD, OpenFOAM, GMSH, SkyMesh, nonPDPSIM, Python, C++, PyTorch, MPI, Mathematica 
+- **Technical:** Inventor 3D-CAD, OpenFOAM, GMSH, SkyMesh, nonPDPSIM, Python, C++, PyTorch, Git, MPI, Mathematica 
 - **Languages:**  
   - Arabic: Native  
   - English: Fluent  
