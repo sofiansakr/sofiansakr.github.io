@@ -8,7 +8,7 @@ I'm a physics student with strong experience in theoretical and simulation-based
 ## Work Experience
 
 ### [HiWi for OpenFOAM Simulation — enaDyne, Germany *(01/2025 – Present)*](https://github.com/sofiansakr/enaDyne/tree/main?tab=readme-ov-file)  
-At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic reactor designs for syngas production, primarily through simulation of SDBD systems using OpenFOAM. I generate meshes with GMSH and SkyMesh, integrate data from nonPDPSIM (e.g., electric fields and EHD forces), and run simulations on cloud servers using MPI parallelization. I also customize and extend solver source codes in C++ to enhance model accuracy and develop custom modules for project-specific needs. recently, I started traing owr own LM model at enaDyne for owr simulations usnig PyTorch.
+At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic reactor designs for syngas production, primarily through simulation of SDBD systems using OpenFOAM. I generate meshes with GMSH and SkyMesh, integrate data from nonPDPSIM (e.g., electric fields and EHD forces), and run simulations on cloud servers using MPI parallelization. I also customize and extend solver source codes in C++ to enhance model accuracy and develop custom modules for project-specific needs. recently, I started traing owr own LM model at enaDyne for owr simulations usnig **PyTorch**.
 
 #### 🔧 Key Responsibilities:
 
