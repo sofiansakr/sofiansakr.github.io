@@ -8,7 +8,7 @@ I'm a physics student with strong experience in theoretical and simulation-based
 ## Work Experience
 
 ### [HiWi for OpenFOAM Simulation — enaDyne, Germany *(01/2025 – Present)*](https://github.com/sofiansakr/enaDyne/tree/main?tab=readme-ov-file)  
-At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic reactor designs for syngas production, primarily through simulation of SDBD systems using OpenFOAM. I generate meshes with GMSH and SkyMesh, integrate data from nonPDPSIM (e.g., electric fields and EHD forces), and run simulations on cloud servers using MPI parallelization. I also customize and extend solver source codes in C++ to enhance model accuracy and develop custom modules for project-specific needs.
+At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic reactor designs for syngas production, primarily through simulation of SDBD systems using OpenFOAM. I generate meshes with GMSH and SkyMesh, integrate data from nonPDPSIM (e.g., electric fields and EHD forces), and run simulations on cloud servers using MPI parallelization. I also customize and extend solver source codes in C++ to enhance model accuracy and develop custom modules for project-specific needs. recently, I started traing owr own LM model at enaDyne for owr simulations usnig PyTorch.
 
 #### 🔧 Key Responsibilities:
 
@@ -16,7 +16,7 @@ At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic
   - Developing and conducting detailed CFD simulations of plasma-catalytic reactors—especially Surface Dielectric Barrier Discharge (SDBD) systems—using OpenFOAM. I adapt solver C++ source code to include specific physical models and improve simulation accuracy and efficiency.
 
 - **Mesh Generation and Preprocessing:**  
-  - Creating meshes with GMSH for OpenFOAM simulations.  
+  - Creating meshes with GMSH, Inventor 3D-CAD for OpenFOAM simulations.  
   - Generating custom meshes with SkyMesh for nonPDPSIM to ensure compatibility and accuracy in multiphysics simulations.
 
 - **Coupling Plasma and Flow:**  
@@ -37,6 +37,11 @@ At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic
   - Invited by enaDyne to participate in the OpenFOAM Workshop to present our work —the largest annual OpenFOAM conference and the longest-running community event.
   - [Link for Certificate of Participation](https://drive.google.com/file/d/18bAl4iTeSFQaC8BpOnjM_qgBQuX8VnXZ/view?usp=sharing)
   - [Our Abstract Overview, page 174:175](https://drive.google.com/file/d/1Jltv0nZM1MFDTq8CZqg7T7BTs2rMvEl-/view?usp=sharing)
+
+---
+
+### Partnership with Upstream CFD *(15/10/2025 – Now)*  
+  - Working in partnership with Upstream CFD in developing our simulation model and enhancing the post-processing.
 
 ---
 
@@ -86,7 +91,7 @@ At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic
 
 ## Skills
 
-- **Technical:** OpenFOAM, GMSH, SkyMesh, nonPDPSIM, Python, C++, MPI, Monte Carlo, Mathematica  
+- **Technical:** Inventor 3D-CAD, OpenFOAM, GMSH, SkyMesh, nonPDPSIM, Python, C++, PyTorch, MPI, Mathematica 
 - **Languages:**  
   - Arabic: Native  
   - English: Fluent  
