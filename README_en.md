@@ -47,7 +47,7 @@ At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic
 
 ## Courses & Projects
 
-### Bachelor Thesis — ITP, Universität Leipzig *(expected 09/2025)*  
+### Bachelor Thesis — ITP, Universität Leipzig *(expected 12/2025)*  
 <p align="center"><strong>"Complex Partition Function Zeros of the Two-Dimensional Ising Model"</strong></p>
 
 - My thesis focuses on a computational investigation of the 2D Ising model, particularly analyzing complex zeros of the partition function. I applied high-precision numerical methods to determine Fisher and Lee-Yang zeros for large lattice sizes (up to L=128) using Python and Mathematica.  
@@ -85,7 +85,7 @@ At enaDyne GmbH, I focus on the development and optimization of plasma-catalytic
 ## Education
 
 - **B.Sc. in Physics** — Universiti Sains Malaysia *(10/2020 – 08/2021)*  
-- **B.Sc. in Physics** — Universität Leipzig *(04/2022 – expected 09/2025)*  
+- **B.Sc. in Physics** — Universität Leipzig *(04/2022 – expected 12/2025)*  
 
 ---
 
